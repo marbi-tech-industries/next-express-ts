@@ -1,0 +1,11 @@
+{
+  "singleQuote": true,
+  "arrowParens": "always",
+  "trailingComma": "none",
+  "useTabs": false,
+  "tabWidth": 2,
+  "semi": true,
+  "printWidth": 120,
+  "embeddedLanguageFormatting": "auto",
+  "files.insertFinalNewline": true
+}
